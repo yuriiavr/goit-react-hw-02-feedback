@@ -1,0 +1,15 @@
+.statistics__data__thumb{
+    padding: 0;
+    text-align: left;
+}
+
+.statistics__data{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.statistics__underlined__data{
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

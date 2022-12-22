@@ -1,0 +1,12 @@
+.option__btn{  
+
+    width: 80px;
+    height: 30px;
+    }
+    .option__btn:not(:last-child){
+        margin-right: 10px;
+        background-color: #FFA07A;
+        color: #fff;
+        border:1px transparent;
+        border-radius: 5px;
+    }
